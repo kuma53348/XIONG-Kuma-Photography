@@ -69,7 +69,7 @@ header .hamburger span {
 
 #mainvisual {
     position: relative;
-    height: 60vh;
+    height: 100vh;
     /* 调整为100%视口高度 */
     overflow: hidden;
 }
